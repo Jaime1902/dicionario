@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fabpot/goutte": "^3.3",
+        "pear/text_languagedetect": "^1.0"
+    }
+}
